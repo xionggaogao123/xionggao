@@ -3,7 +3,7 @@ package com.wuxianedu.bean;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-
+//ÊµÌåÀà
 @Entity
 public class Department {
 	
